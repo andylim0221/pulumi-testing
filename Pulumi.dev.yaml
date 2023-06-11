@@ -1,0 +1,4 @@
+config:
+  aws:region: us-east-1
+  lambdaFunctionName: first-lambda-function
+  eventRuleName: event-rule
